@@ -12,19 +12,19 @@ main:
     url: /#education
 
   - title: "Research"
-    url: /pages/    
+    url: /#research   
 
   - title: "Award"
-    url: /pages/    
+    url: /#award    
     
  # - title: "Award"
  #   url: /pages/
         
   - title: "Internship"
-    url: /pages/
+    url: /#internship
     
   - title: "Practical"
-    url: /pages/
+    url: /#practical
     
   # - title: "CV"
   #   url: /pages/
