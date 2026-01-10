@@ -8,22 +8,22 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Educational Background"
+  - title: "Education"
     url: /pages/
 
-  - title: "Research Experience"
+  - title: "Research"
     url: /pages/    
 
-  - title: "Teaching"
-    url: /pages/    
-    
   - title: "Award"
-    url: /pages/
+    url: /pages/    
+    
+ # - title: "Award"
+ #   url: /pages/
         
-  - title: "Internship Experience"
+  - title: "Internship"
     url: /pages/
     
-  - title: "Practical Experience"
+  - title: "Practical"
     url: /pages/
     
   # - title: "CV"
