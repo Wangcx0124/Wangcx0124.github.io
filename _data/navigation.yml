@@ -9,7 +9,7 @@
 
 main:
   - title: "Education"
-    url: /education/
+    url: /#education
 
   - title: "Research"
     url: /pages/    
