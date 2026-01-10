@@ -14,3 +14,5 @@ I am a first-year MPH student in the Department of Epidemiology and Biostatistic
 You can find my Chinese CV here: [Chenxuan Wang's Curriculum Vitae](../assets/Curriculum Vitae.pdf).
 
 [Email](mailto:chenxuan_wang@stu.pku.edu.cn) / [Github](https://github.com/Wangcx0124) / [Wechat](../images/wechat.jpg)
+
+Last update：2026/01
