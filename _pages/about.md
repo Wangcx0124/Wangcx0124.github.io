@@ -9,6 +9,7 @@ redirect_from:
 
 I am a first-year MPH student in the Department of Epidemiology and Biostatistics at the [School of Public Health](https://sph.pku.edu.cn), [Peking University](https://www.pku.edu.cn). My supervisor is Researcher [Gao Pei](https://sph.pku.edu.cn/info/1180/3597.htm), and my current research focuses on predictive models for cardiovascular diseases in cancer populations.
 
+<a id="education"></a>
 Educational Background
 ======
 I commenced my undergraduate studies at Peking University School of Public Health in September 2020, where I majored in Preventive Medicine. I graduated in June 2025 with a Bachelor of Medicine degree, achieving a GPA of 3.69/4.00 and ranking 6th among 90 students in my major. Concurrently, from September 2021, I pursued a double degree in Psychology at Peking University School of Psychological and Cognitive Sciences, earning a Bachelor of Science upon completion in June 2025. Currently, since September 2025, I have been furthering my education at my alma mater, Peking University School of Public Health, as a Master of Professional Studies student in the Department of Epidemiology and Biostatistics.
